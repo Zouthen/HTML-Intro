@@ -1,0 +1,11 @@
+
+body {background-color: darkred; color: white; font-family: "Arial"}
+h1 {background-color: white; color: orangered}
+
+p {color: yellow; font-size: larger}
+
+#container {border: solid 2px indigo; width: 1000px; margin: 0 auto}
+#arnold {}
+#divarnold {border: solid 2px white; text-align: right}
+
+
